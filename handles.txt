@@ -1,0 +1,2 @@
+example-slug
+example2
